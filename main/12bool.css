@@ -13,7 +13,7 @@
 .row {
     display: flex;
     flex-flow: row wrap;
-    height: 3rem;
+    min-height: 3rem;
 }
 
 .col-grow {
